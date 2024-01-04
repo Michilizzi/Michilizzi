@@ -1,7 +1,7 @@
-- 👋 Olá, sou o Breno mas pode me chamar de Michilizzi
+- 👋 Olá, sou o Breno Michilizzi
 - 👀 Estou interessado pela área de Dados
 - 🌱 Estou estudando sobre ciência de dados, Python, SQL, Power BI e Machine learning
-- 💞️ I’m looking to collaborate on ...
+
 
 
 
